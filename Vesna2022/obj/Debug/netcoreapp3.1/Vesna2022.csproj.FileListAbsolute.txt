@@ -1,0 +1,4 @@
+C:\Users\Юрий\source\repos\Vesna2022\Vesna2022\obj\Debug\netcoreapp3.1\Vesna2022.csprojAssemblyReference.cache
+C:\Users\Юрий\source\repos\Vesna2022\Vesna2022\obj\Debug\netcoreapp3.1\Vesna2022.AssemblyInfoInputs.cache
+C:\Users\Юрий\source\repos\Vesna2022\Vesna2022\obj\Debug\netcoreapp3.1\Vesna2022.AssemblyInfo.cs
+C:\Users\Юрий\source\repos\Vesna2022\Vesna2022\obj\Debug\netcoreapp3.1\Vesna2022.csproj.CoreCompileInputs.cache

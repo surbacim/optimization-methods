@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/1gOvmH13g0Mk1ul+EAVj05Q52buggenK5pH9c4nT43RKM++X2xw0OsBKi+OihzkLA747daCJTQfzQkORs5UEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Юрий\\source\\repos\\Vesna2022\\Vesna2022\\Vesna2022.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Юрий\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
